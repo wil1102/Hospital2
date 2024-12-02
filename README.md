@@ -1,2 +1,9 @@
-# Hospital2
-Hospital_Management_System_2
+# Hospital Management System Updated Team 5
+
+## Team Members
+- Cole Keim
+- Justin Cushing
+- James Rogers
+- Camden Myers
+- Wil Cunningham
+
