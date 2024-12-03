@@ -12,7 +12,7 @@ The main objective of this project was to enhance and expand our previous Hospit
 
 The hospital also maintains records of each patient's financial details through the Billing and Insurance entities. These entities not only facilitate patient care but also ensure accurate documentation to provide better financial coverage. Our goal is to accurately model these relationships, generate representative sample data, and populate the entities accordingly. Additionally, we aim to execute functional queries on this data to derive meaningful business insights into the hospital’s operations.
 
-New features in the system include the addition of a Laboratories branch, which records the details of each patient’s lab tests. The Medical Record entity has been expanded with a new branch to document individual diseases for each patient in greater detail. The Pharmacy entity has also been introduced, linking directly to billing statements and written prescriptions to ensure smoother workflows and more precise data management.
+New features in the system include the addition of a Laboratories branch, which records the details of each patient’s lab tests. The Medical Record entity has been expanded with a new branch, diseases, to document individual diseases for each patient in greater detail and ensure proper organization. The Pharmacy entity has also been introduced, linking directly to billing statements and written prescriptions to ensure smoother workflows and more precise data management.
 
 ## Data Model
 Our hospital management system is designed to optimize hospital operations and facilitate the efficient delivery of patient care. The model emphasizes the management of staff, patient records, departments, appointments, lab tests, and billing processes.
