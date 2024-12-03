@@ -64,6 +64,15 @@ Why?: this allows the finanace teams to work on data involving how much money th
 ![image](https://github.com/user-attachments/assets/69bf8889-fbcf-4c2d-a649-c86080845749)
 ![image](https://github.com/user-attachments/assets/b9ae6e2d-3276-458d-87e5-0a4a76a94938)
 
+Query 4:
+Query: shows financial and appointment info for any given doctor after inputting first and last name
+Why?: useful to check which doctors are or are not meeting financial quotas
+![image](https://github.com/user-attachments/assets/ca737d96-e58c-4afe-a40a-599e72aa966d)
+![image](https://github.com/user-attachments/assets/2582bb8f-827f-4a0d-a2f4-b9f3b69cf241)
+![image](https://github.com/user-attachments/assets/ead0ac73-6eb2-406d-bcf0-4583a8be39a3)
+![image](https://github.com/user-attachments/assets/e7b12897-bff9-44fb-a7e9-57fab19fc546)
+
+
 
 
 
