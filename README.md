@@ -46,7 +46,12 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 
 ![image](https://github.com/user-attachments/assets/0513c62f-020a-4631-8dbd-a79af9e15102)
 
-Justin picture of data for billing
+![image](https://github.com/user-attachments/assets/cf2b9ebc-4290-40fc-b703-9a766ff0084c)
+![image](https://github.com/user-attachments/assets/3e9b52db-123e-4e0b-b9e6-586d384c3b07)
+![image](https://github.com/user-attachments/assets/3891f6b1-3fbd-4759-88eb-4d3cf1b24e6f)
+![image](https://github.com/user-attachments/assets/24c5d775-f0cc-474d-98ee-d0dd3faa0c95)
+
+
 
 
 ![image](https://github.com/user-attachments/assets/3e1d6b17-d6d4-4889-9ed6-a9e5b76de202)
@@ -124,11 +129,13 @@ Why? Track which senior doctors carry the heaviest workload in the supervision o
 Query 2:
 Query: Show how many appointments each doctor had per year
 Why?: Useful for performance reports
+
 ![image](https://github.com/user-attachments/assets/2e274af7-6078-43bf-aede-fbaa87e20903)
 
 Query 3:
 Query: View with limited patient and billing info
 Why?: this allows the finanace teams to work on data involving how much money they are still expecting to recieve without having access to sensitive personal patient information like their name and SSN
+
 ![image](https://github.com/user-attachments/assets/1e2b583d-d751-4b2b-a6cb-aaa82cd09183)
 ![image](https://github.com/user-attachments/assets/b5b2bdf2-1bcc-4f00-b2f1-a2dfd5f6a33b)
 ![image](https://github.com/user-attachments/assets/206d729e-c2c4-460c-9aa8-ce8a81ac36f7)
@@ -138,6 +145,7 @@ Why?: this allows the finanace teams to work on data involving how much money th
 Query 4:
 Query: shows financial and appointment info for any given doctor after inputting first and last name
 Why?: useful to check which doctors are or are not meeting financial quotas
+
 ![image](https://github.com/user-attachments/assets/ca737d96-e58c-4afe-a40a-599e72aa966d)
 ![image](https://github.com/user-attachments/assets/2582bb8f-827f-4a0d-a2f4-b9f3b69cf241)
 ![image](https://github.com/user-attachments/assets/ead0ac73-6eb2-406d-bcf0-4583a8be39a3)
@@ -145,6 +153,7 @@ Why?: useful to check which doctors are or are not meeting financial quotas
 
 Query 5: provide a list of patients have have recieved a prescription but have not been billed because they do not have an insurance provider on file
 Why?: the billing office will need to pursuse patients that must make future payments for their prescribed medicines
+
 <img width="637" alt="Screenshot 2024-12-03 at 3 43 11 PM" src="https://github.com/user-attachments/assets/b93ea8de-586a-48df-9c11-bee0ee9f54af">
 <img width="469" alt="Screenshot 2024-12-03 at 3 43 38 PM" src="https://github.com/user-attachments/assets/aabbffa3-ad03-4c98-b5f8-ff2b0a5bd874">
 
