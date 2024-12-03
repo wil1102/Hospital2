@@ -150,6 +150,7 @@ Why?: the billing office will need to pursuse patients that must make future pay
 
 ## Visualizations
 
+<img width="804" alt="image" src="https://github.com/user-attachments/assets/5e20648a-ac64-47cf-9656-b01dc455e868">
 
 
 
