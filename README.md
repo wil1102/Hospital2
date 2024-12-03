@@ -44,7 +44,7 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 ![image](https://github.com/user-attachments/assets/35a6efea-1f4b-4bed-9507-636ce7d7b7cb)
 
 
-![image](https://github.com/user-attachments/assets/02c77da7-50cb-4fb4-9c71-6f4a97cedebf)
+![image](https://github.com/user-attachments/assets/0513c62f-020a-4631-8dbd-a79af9e15102)
 
 Justin picture of data for billing
 
@@ -84,9 +84,14 @@ Justin picture for nursewardassingment
 Justin picture of data for nurse
 
 
-![image](https://github.com/user-attachments/assets/7dbe14e7-a034-4e42-b5af-729957857779)
+![image](https://github.com/user-attachments/assets/d460eb26-072b-4ae6-b6c1-b8fa4048af6a)
 
 data for prescription
+
+
+![image](https://github.com/user-attachments/assets/12f540ba-5479-4a64-a7e4-76858f305848)
+
+Data for pharmacy
 
 
 ![image](https://github.com/user-attachments/assets/568cf800-28d9-4544-87d5-1817b4f43c5b)
