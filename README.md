@@ -56,7 +56,17 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 
 ![image](https://github.com/user-attachments/assets/3e1d6b17-d6d4-4889-9ed6-a9e5b76de202)
 
-Justin picture of data for Appointment
+![image](https://github.com/user-attachments/assets/33873034-7f12-4b0f-afea-2628afea47b2)
+
+![image](https://github.com/user-attachments/assets/b39ad5c3-a99d-4561-8163-a515c005c881)
+
+![image](https://github.com/user-attachments/assets/91cc84d8-db37-449b-a2f8-5230aa22be41)
+
+![image](https://github.com/user-attachments/assets/4aba44b2-1cdc-4213-baf8-1e0151a735ae)
+
+![image](https://github.com/user-attachments/assets/bf41fc0f-3f90-42ff-961f-920be66adfab)
+
+![image](https://github.com/user-attachments/assets/603ebf4c-6cb9-4ee9-83bd-ca1eb8abd1f1)
 
 
 ![image](https://github.com/user-attachments/assets/dfbea109-de5b-47c0-8f9a-6093e42c0019)
@@ -137,9 +147,13 @@ Query: View with limited patient and billing info
 Why?: this allows the finanace teams to work on data involving how much money they are still expecting to recieve without having access to sensitive personal patient information like their name and SSN
 
 ![image](https://github.com/user-attachments/assets/1e2b583d-d751-4b2b-a6cb-aaa82cd09183)
+
 ![image](https://github.com/user-attachments/assets/b5b2bdf2-1bcc-4f00-b2f1-a2dfd5f6a33b)
+
 ![image](https://github.com/user-attachments/assets/206d729e-c2c4-460c-9aa8-ce8a81ac36f7)
+
 ![image](https://github.com/user-attachments/assets/69bf8889-fbcf-4c2d-a649-c86080845749)
+
 ![image](https://github.com/user-attachments/assets/b9ae6e2d-3276-458d-87e5-0a4a76a94938)
 
 Query 4:
@@ -147,8 +161,11 @@ Query: shows financial and appointment info for any given doctor after inputting
 Why?: useful to check which doctors are or are not meeting financial quotas
 
 ![image](https://github.com/user-attachments/assets/ca737d96-e58c-4afe-a40a-599e72aa966d)
+
 ![image](https://github.com/user-attachments/assets/2582bb8f-827f-4a0d-a2f4-b9f3b69cf241)
+
 ![image](https://github.com/user-attachments/assets/ead0ac73-6eb2-406d-bcf0-4583a8be39a3)
+
 ![image](https://github.com/user-attachments/assets/e7b12897-bff9-44fb-a7e9-57fab19fc546)
 
 Query 5: provide a list of patients have have recieved a prescription but have not been billed because they do not have an insurance provider on file
