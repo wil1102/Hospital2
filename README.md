@@ -37,4 +37,33 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 
 ![image](https://github.com/user-attachments/assets/77082899-0cd4-4fa7-b887-50f2ce4e7e11)
 
-Justin image of data table
+![image](https://github.com/user-attachments/assets/70e782e5-5ba9-4582-b6e0-8b90d30e6424)
+![image](https://github.com/user-attachments/assets/48042ac0-eb53-4642-9528-30efe598082d)
+![image](https://github.com/user-attachments/assets/3b414ac8-28c1-47b6-a326-0280653a2753)
+![image](https://github.com/user-attachments/assets/661972d7-e242-41a3-90df-f1c3f408b0dd)
+![image](https://github.com/user-attachments/assets/35a6efea-1f4b-4bed-9507-636ce7d7b7cb)
+
+## Queries
+
+Query 1: 
+Query: Return the senior doctor(s) with the highest amount of subordinate doctors
+Why? Track which senior doctors carry the heaviest workload in the supervision of subordinate doctors
+![image](https://github.com/user-attachments/assets/7990fce9-28c4-47a8-a190-fe4734712a5a)
+
+Query 2:
+Query: Show how many appointments each doctor had per year
+Why?: Useful for performance reports
+![image](https://github.com/user-attachments/assets/2e274af7-6078-43bf-aede-fbaa87e20903)
+
+Query 3:
+Query: View with limited patient and billing info
+Why?: this allows the finanace teams to work on data involving how much money they are still expecting to recieve without having access to sensitive personal patient information like their name and SSN
+![image](https://github.com/user-attachments/assets/1e2b583d-d751-4b2b-a6cb-aaa82cd09183)
+![image](https://github.com/user-attachments/assets/b5b2bdf2-1bcc-4f00-b2f1-a2dfd5f6a33b)
+![image](https://github.com/user-attachments/assets/206d729e-c2c4-460c-9aa8-ce8a81ac36f7)
+![image](https://github.com/user-attachments/assets/69bf8889-fbcf-4c2d-a649-c86080845749)
+![image](https://github.com/user-attachments/assets/b9ae6e2d-3276-458d-87e5-0a4a76a94938)
+
+
+
+
