@@ -152,11 +152,11 @@ Why?: the billing office will need to pursuse patients that must make future pay
 
 <img width="804" alt="image" src="https://github.com/user-attachments/assets/5e20648a-ac64-47cf-9656-b01dc455e868">
 
-# Nurses and Patients per Ward
+### Nurses and Patients per Ward
 - This chart shows the number of nurses and patients assigned to each ward, which provides insight into the hospital's nurse to patient ratios. It helps the hospital ensure that each ward has adequate staffing, which improves patient care and efficiency.
 
-# Appointments and Revenue by Year
+### Appointments and Revenue by Year
 - This time series compares the number of appointments to total revenue over the years, which reveals trends in hospital activity and financial performance. It is very important for identifying times of high demand and evaluating how effectively revenue aligns with appointment volume.
 
-# Lab Tests and Results
+### Lab Tests and Results
 - This bar chart breaks down the number of lab tests conducted for each test type and their results, showing trends in diagnostics. This is very beneficial in tracking abnormalities and identifying which tests are the most common.
