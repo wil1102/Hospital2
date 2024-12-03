@@ -143,6 +143,9 @@ Why?: useful to check which doctors are or are not meeting financial quotas
 ![image](https://github.com/user-attachments/assets/ead0ac73-6eb2-406d-bcf0-4583a8be39a3)
 ![image](https://github.com/user-attachments/assets/e7b12897-bff9-44fb-a7e9-57fab19fc546)
 
+Query 5: provide a list of patients have have recieved a prescription but have not been billed because they do not have an insurance provider on file
+Why?: the billing office will need to pursuse patients that must make future payments for their prescribed medicines
+
 
 
 
