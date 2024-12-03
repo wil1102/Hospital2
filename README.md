@@ -71,62 +71,88 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 
 ![image](https://github.com/user-attachments/assets/dfbea109-de5b-47c0-8f9a-6093e42c0019)
 
-Justin picture of data for insurance
+![image](https://github.com/user-attachments/assets/ccbaa1f7-a78b-4470-9984-5cbed9c21750)
+
+![image](https://github.com/user-attachments/assets/c17e2d28-03d9-4c57-93d9-d43997721629)
+
+![image](https://github.com/user-attachments/assets/a8c0e567-2286-44a0-a28b-7275968dbeee)
+
+![image](https://github.com/user-attachments/assets/576c6bf2-5d2f-4f8f-b30f-f69fc1b5baef)
 
 
 ![image](https://github.com/user-attachments/assets/fa46e752-0a7e-4d97-a6de-af3b01d07c96)
 
-Justin picture of data for Medical_Record
+![image](https://github.com/user-attachments/assets/4632bbe2-62aa-45fa-9dce-b04a8851e451)
+
+![image](https://github.com/user-attachments/assets/376a813b-12a3-409a-a5ae-7b57981d40d0)
+
+![image](https://github.com/user-attachments/assets/9a37b809-e6a0-4dcd-90f1-a775170f3c3f)
 
 
 ![image](https://github.com/user-attachments/assets/39a24778-beff-4773-a75a-2f030f2bf61e)
 
-Data for diseases
+![image](https://github.com/user-attachments/assets/d2aa703f-10e9-4b87-849e-7b2ad869b6ae)
+
 
 
 ![image](https://github.com/user-attachments/assets/ee0eb7db-d25a-421b-b88d-e7fbb3b22099)
 
-Justin picture of data for Ward
+![image](https://github.com/user-attachments/assets/5e4be7dd-c107-4564-95d6-218d0efd96c0)
+
 
 
 ![image](https://github.com/user-attachments/assets/2d638cc3-471c-470d-8a06-c82ae9df2a08)
 
-Justin picture for nursewardassingment
+![image](https://github.com/user-attachments/assets/c9015e89-7abb-42db-9db3-40f9383921ad)
+
 
 
 ![image](https://github.com/user-attachments/assets/4aa035d9-5420-4b5b-9ef5-e8629904a8e4)
 
-Justin picture of data for nurse
+![image](https://github.com/user-attachments/assets/987327dd-58f6-48dd-9c13-1dca1754d993)
+
 
 
 ![image](https://github.com/user-attachments/assets/d460eb26-072b-4ae6-b6c1-b8fa4048af6a)
 
-data for prescription
+![image](https://github.com/user-attachments/assets/e576cea4-a51b-4c6a-b70f-0d6578a12f33)
+
+![image](https://github.com/user-attachments/assets/be725c37-47bf-4ae0-970e-c71cd6eba28d)
+
 
 
 ![image](https://github.com/user-attachments/assets/12f540ba-5479-4a64-a7e4-76858f305848)
 
-Data for pharmacy
+![image](https://github.com/user-attachments/assets/02c13a1b-c41d-4512-81ae-22bbdc33d40a)
+
 
 
 ![image](https://github.com/user-attachments/assets/568cf800-28d9-4544-87d5-1817b4f43c5b)
 
-Data for doctor
+![image](https://github.com/user-attachments/assets/7d14ca9f-503e-4092-851b-b56f31b6169f)
+
 
 
 ![image](https://github.com/user-attachments/assets/abe39511-f7cf-4742-99e9-7c42fd07fb30)
 
-Data for department
+![image](https://github.com/user-attachments/assets/128f507f-b34d-450e-9b4c-7ca793013b07)
+
 
 
 ![image](https://github.com/user-attachments/assets/77925230-86aa-48a4-9bca-17dcedbd19de)
 
-Data for lab
+![image](https://github.com/user-attachments/assets/3917b7bc-6e5d-41f2-937d-23dec5e4cbd1)
+
 
 
 ![image](https://github.com/user-attachments/assets/afe99142-21c4-4a8e-aff9-22628a346576)
 
-data for lab tests
+![image](https://github.com/user-attachments/assets/7043f0ba-b9c7-4cfc-9c51-149d902b9249)
+
+![image](https://github.com/user-attachments/assets/d6305188-2705-4afa-ac2a-fc7a926171db)
+
+![image](https://github.com/user-attachments/assets/149181f2-6c5c-4921-b96b-e9eb830b4a89)
+
 
 
 ## Queries
