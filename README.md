@@ -43,6 +43,72 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 ![image](https://github.com/user-attachments/assets/661972d7-e242-41a3-90df-f1c3f408b0dd)
 ![image](https://github.com/user-attachments/assets/35a6efea-1f4b-4bed-9507-636ce7d7b7cb)
 
+
+![image](https://github.com/user-attachments/assets/02c77da7-50cb-4fb4-9c71-6f4a97cedebf)
+
+Justin picture of data for billing
+
+
+![image](https://github.com/user-attachments/assets/3e1d6b17-d6d4-4889-9ed6-a9e5b76de202)
+
+Justin picture of data for Appointment
+
+
+![image](https://github.com/user-attachments/assets/dfbea109-de5b-47c0-8f9a-6093e42c0019)
+
+Justin picture of data for insurance
+
+
+![image](https://github.com/user-attachments/assets/fa46e752-0a7e-4d97-a6de-af3b01d07c96)
+
+Justin picture of data for Medical_Record
+
+
+![image](https://github.com/user-attachments/assets/39a24778-beff-4773-a75a-2f030f2bf61e)
+
+Data for diseases
+
+
+![image](https://github.com/user-attachments/assets/ee0eb7db-d25a-421b-b88d-e7fbb3b22099)
+
+Justin picture of data for Ward
+
+
+![image](https://github.com/user-attachments/assets/2d638cc3-471c-470d-8a06-c82ae9df2a08)
+
+Justin picture for nursewardassingment
+
+
+![image](https://github.com/user-attachments/assets/4aa035d9-5420-4b5b-9ef5-e8629904a8e4)
+
+Justin picture of data for nurse
+
+
+![image](https://github.com/user-attachments/assets/7dbe14e7-a034-4e42-b5af-729957857779)
+
+data for prescription
+
+
+![image](https://github.com/user-attachments/assets/568cf800-28d9-4544-87d5-1817b4f43c5b)
+
+Data for doctor
+
+
+![image](https://github.com/user-attachments/assets/abe39511-f7cf-4742-99e9-7c42fd07fb30)
+
+Data for department
+
+
+![image](https://github.com/user-attachments/assets/77925230-86aa-48a4-9bca-17dcedbd19de)
+
+Data for lab
+
+
+![image](https://github.com/user-attachments/assets/afe99142-21c4-4a8e-aff9-22628a346576)
+
+data for lab tests
+
+
 ## Queries
 
 Query 1: 
