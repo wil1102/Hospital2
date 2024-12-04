@@ -159,7 +159,8 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 
 Query 1: 
 Query: Return the senior doctor(s) with the highest amount of subordinate doctors
-Why? Track which senior doctors carry the heaviest workload in the supervision of subordinate doctors
+Why? This query is useful to determine which senior doctors carry the heaviest workload in the supervision of subordinate doctors. A hospital may want to run this query and determine
+this information for a number of reasons such as determining which senior doctors are the strongest leaders or to try to create even distribution of subordinates to senior doctors. 
 ![image](https://github.com/user-attachments/assets/7990fce9-28c4-47a8-a190-fe4734712a5a)
 
 Query 2:
