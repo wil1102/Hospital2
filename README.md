@@ -166,6 +166,7 @@ this information for a number of reasons such as determining which senior doctor
 
 Query 2:
 Query: Show how many appointments each doctor had per year
+
 Why?: A hospital with this database would want to run this query mainly as a measure of producvitiy, as it can demonstrate which doctors are doing the most work and are managing their time
 most effectively. In addition, a hospital may waant to be able to use this query to determine which doctors the patients have the most demand for. Overall, determining how many appointments 
 each specific doctor had per year would be vital to a hospital determining where their resources should be allocated.
@@ -174,6 +175,7 @@ each specific doctor had per year would be vital to a hospital determining where
 
 Query 3:
 Query: View with limited patient and billing info
+
 Why?: Creating a view of this nature would allow a finance team in the hospital to work on data involving how much money they are still expecting to recieve.
 Creating a view with limited patient information will ensure that access to sensitive personal patient information like name and SSN are restricted only to those that need it. This will ensure the hospital is 
 complying with privacy regulations while also maintaining productivity for those that need this information.
@@ -190,6 +192,7 @@ complying with privacy regulations while also maintaining productivity for those
 
 Query 4:
 Query: Shows financial and appointment info for any given doctor after inputting first and last name
+
 Why?: A query of this nature would be useful in order to assess doctor productivity on an individual level. A hospital may want this for a number of reasons such as being able to benchmark performance between
 doctors for promotions by seeing the financial value added by a given doctor. In addition, a query of this nature could help the hospital ensure that resources are being allocated to the right doctors in the right
 departments, such as additional nurses or equipment that is being purchased. 
@@ -203,6 +206,7 @@ departments, such as additional nurses or equipment that is being purchased.
 ![image](https://github.com/user-attachments/assets/e7b12897-bff9-44fb-a7e9-57fab19fc546)
 
 Query 5: Provide a list of patients have have recieved a prescription but have not been billed because they do not have an insurance provider on file
+
 Why?: This query would be useful to the hospital by being able to address potential gaps in revenue they can follow up on. It would be a mechanism for the hospital to check with compliance issues and to identify gaps 
 in the billing data. 
 
