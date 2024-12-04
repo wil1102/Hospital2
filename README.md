@@ -170,7 +170,7 @@ this information for a number of reasons such as determining which senior doctor
 Query 2:
 Query: Show how many appointments each doctor had per year
 
-Why?: A hospital with this database would want to run this query mainly as a measure of producvitiy, as it can demonstrate which doctors are doing the most work and are managing their time
+Why?: A hospital with this database would want to run this query mainly as a measure of productivity, as it can demonstrate which doctors are doing the most work and are managing their time
 most effectively. In addition, a hospital may waant to be able to use this query to determine which doctors the patients have the most demand for. Overall, determining how many appointments 
 each specific doctor had per year would be vital to a hospital determining where their resources should be allocated.
 
