@@ -216,5 +216,8 @@ Why?: the billing office will need to pursuse patients that must make future pay
 ## Database Info
 Database name: cs_jac29684
 
-Each query can be called using CALL Team5_Qx() where x is the query number
+Queries 1,2,4,5 can be called using CALL Team5_Qx() where x is the query number<br/>
+
 Query 2 requires a year as input and query 4 requires first and last name
+
+Since Query 3 is a view, it can be called using select * from patientFinancialInfo
