@@ -159,19 +159,24 @@ Lastly, the Insurance entity stores information about insurance providers, polic
 
 Query 1: 
 Query: Return the senior doctor(s) with the highest amount of subordinate doctors
+
 Why? This query is useful to determine which senior doctors carry the heaviest workload in the supervision of subordinate doctors. A hospital may want to run this query and determine
 this information for a number of reasons such as determining which senior doctors are the strongest leaders or to try to create even distribution of subordinates to senior doctors. 
 ![image](https://github.com/user-attachments/assets/7990fce9-28c4-47a8-a190-fe4734712a5a)
 
 Query 2:
 Query: Show how many appointments each doctor had per year
-Why?: Useful for performance reports
+Why?: A hospital with this database would want to run this query mainly as a measure of producvitiy, as it can demonstrate which doctors are doing the most work and are managing their time
+most effectively. In addition, a hospital may waant to be able to use this query to determine which doctors the patients have the most demand for. Overall, determining how many appointments 
+each specific doctor had per year would be vital to a hospital determining where their resources should be allocated.
 
 ![image](https://github.com/user-attachments/assets/2e274af7-6078-43bf-aede-fbaa87e20903)
 
 Query 3:
 Query: View with limited patient and billing info
-Why?: this allows the finanace teams to work on data involving how much money they are still expecting to recieve without having access to sensitive personal patient information like their name and SSN
+Why?: Creating a view of this nature would allow a finance team in the hospital to work on data involving how much money they are still expecting to recieve.
+Creating a view with limited patient information will ensure that access to sensitive personal patient information like name and SSN are restricted only to those that need it. This will ensure the hospital is 
+complying with privacy regulations while also maintaining productivity for those that need this information.
 
 ![image](https://github.com/user-attachments/assets/1e2b583d-d751-4b2b-a6cb-aaa82cd09183)
 
@@ -184,8 +189,10 @@ Why?: this allows the finanace teams to work on data involving how much money th
 ![image](https://github.com/user-attachments/assets/b9ae6e2d-3276-458d-87e5-0a4a76a94938)
 
 Query 4:
-Query: shows financial and appointment info for any given doctor after inputting first and last name
-Why?: useful to check which doctors are or are not meeting financial quotas
+Query: Shows financial and appointment info for any given doctor after inputting first and last name
+Why?: A query of this nature would be useful in order to assess doctor productivity on an individual level. A hospital may want this for a number of reasons such as being able to benchmark performance between
+doctors for promotions by seeing the financial value added by a given doctor. In addition, a query of this nature could help the hospital ensure that resources are being allocated to the right doctors in the right
+departments, such as additional nurses or equipment that is being purchased. 
 
 ![image](https://github.com/user-attachments/assets/ca737d96-e58c-4afe-a40a-599e72aa966d)
 
@@ -195,8 +202,9 @@ Why?: useful to check which doctors are or are not meeting financial quotas
 
 ![image](https://github.com/user-attachments/assets/e7b12897-bff9-44fb-a7e9-57fab19fc546)
 
-Query 5: provide a list of patients have have recieved a prescription but have not been billed because they do not have an insurance provider on file
-Why?: the billing office will need to pursuse patients that must make future payments for their prescribed medicines
+Query 5: Provide a list of patients have have recieved a prescription but have not been billed because they do not have an insurance provider on file
+Why?: This query would be useful to the hospital by being able to address potential gaps in revenue they can follow up on. It would be a mechanism for the hospital to check with compliance issues and to identify gaps 
+in the billing data. 
 
 <img width="637" alt="Screenshot 2024-12-03 at 3 43 11 PM" src="https://github.com/user-attachments/assets/b93ea8de-586a-48df-9c11-bee0ee9f54af">
 <img width="469" alt="Screenshot 2024-12-03 at 3 43 38 PM" src="https://github.com/user-attachments/assets/aabbffa3-ad03-4c98-b5f8-ff2b0a5bd874">
